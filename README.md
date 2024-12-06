@@ -7,7 +7,7 @@
     
  - 💬 Ask me about anything related to MERN stack and related technologies
  - 🌱 I'm a Mobile Application  development student
- - 🔭 I’m currently working on Syberenetys
+ - 🔭 I’m currently working on Sybernetys
  - 📫 How to reach me eyamhetli@gmail.com
 
  
