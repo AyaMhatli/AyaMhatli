@@ -13,9 +13,7 @@
  <table style="width:100%" align="left">
 
  <tr>
- <td colspan="10" align="left"> <a href="https://www.welldup.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.welldup.com/assets/icons/logo-menu.webp" width="50" height="40"/>
-          </a></td>
+ 
  <td colspan="10" align="left"> <a href="https://www.mur-et-tremie.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.mur-et-tremie.com/assets/images/logo-mur-et-remie.webp" width="50" height="40"/>
           </a></td>
