@@ -49,16 +49,8 @@
  <td colspan="10" align="left"> <a href="https://www.inchaate.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.inchaate.com/assets/icons/inchaate-logo.webp" width="60"  height="35"/>
           </a></td>
-
- 
-   
   </tr> 
- 
-  
   </table>
-
-
-
 
 
 
@@ -71,9 +63,7 @@
   <tr>
    
   <td align="center" >
-   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="sass">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-      </a>
+        <img src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="40" height="40"/>
     </td>
      <td align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "  title="React" alt="react" width="40" height="40"/>
@@ -84,7 +74,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  title="Nextjs"/>
     </td>
      <td align="center"    >  <a href="https://www.docker.com/" target="_blank"  title="Docker" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" alt="android" width="40" height="40"/> </a>
      </td>
     <td align="center" >
       <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -125,7 +115,7 @@
   <tr>
  <td align="center" >
       <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" title="Ionic" width="80" height="40"/>
+        <img src="https://media.licdn.com/dms/image/v2/D4D12AQHrDgpT6-ovEQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721175237030?e=2147483647&v=beta&t=QTGLPOk_JgVSxLwJ71yQdFy94GYl-DIU0-TmQk2221U" alt="Spring Boot" title="Spring Boot" width="80" height="40"/>
       </a>
     </td>
     <td align="center">
@@ -135,7 +125,7 @@
     </td>
     <td align="center" >
       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://camo.githubusercontent.com/29627c5817449d646aa67481b9168eed5730e8ba7f9f63fb2b73c8b1cd760647/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f657870726573732f657870726573732d6f726967696e616c2e737667" title="express js" alt="express" height="45"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="express js" alt="express" height="45"/>
       </a>
     </td>
     <td align="center" >
@@ -143,10 +133,8 @@
         <img src="https://avatars.githubusercontent.com/nodejs" alt="nodejs" title="Nodejs" height="45"/>
       </a>
     </td>
-    <td align="center" "  >
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <td align="center"  >
         <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" height="45" title="Laravel"/>
-      </a>
     </td>
 
  <td align="center">
@@ -161,29 +149,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="python" width="40" height="40"/>
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C#" width="40" height="40"/>
-      </a>
-    </td>
- 
- <td align="center" >
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
-      </a>
-    </td>
-
-</tr>
-
-  <tr>
-  
-
- <td align="center" >
+     <td align="center" >
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" title="Java" height="40"/>
       </a>
@@ -198,6 +164,10 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" title="Matlab" width="40" height="40"/>
       </a>
     </td>
+
+</tr>
+
+  <tr>
     <td align="center" >
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" title="Figme" height="40"/>
@@ -209,22 +179,6 @@
       </a>
     </td>
    
- <td align="center" >
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  title="Linux" alt="linux" width="40" height="40"/>
-      </a>
-    </td>
-
- <td align="center"  ><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" title="Azure" alt="azure" width="40" height="40"/> </a></td>
-<td align="center"  ><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" title="AWS"
-       height="40"/> </a></td>
-        <td align="center"  ><a href="https://www.redhat.com/fr" target="_blank" rel="noreferrer"> <img title="Redhat" src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="azure" width="60" height="30"/> </a></td>
-        <td align="center"  ><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="kubernetes" width="40" height="40"/> </a> </td>
-         <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" title="Arduino" width="40" height="40"/>
-      </a>
-</td>
  </tr>
 
 </table>
