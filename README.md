@@ -23,12 +23,7 @@
 <td colspan="10" align="left"> <a href="https://eneahome.com" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.eneahome.com/icons/logo.webp" width="60" height="40"/>
           </a></td>
-           <td colspan="10" align="left"> <a href="https://www.mesmurs.fr/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.mesmurs.fr/assets/images/MesMures-logo.webp" width="60" height="25"/>
-          </a></td>
-
-
-
+        
   </tr>
    <tr>
         <td colspan="10" align="left"> <a href="https://www.gex-batiment.com/" onclick="window.open(this.href, '_blank'); return false;">
@@ -40,12 +35,10 @@
         <td colspan="10" align="left"> <a href="https://www.ab-engineering.fr/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.ab-engineering.fr/assets/logo.webp" width="40" align="center" height="50"/>
           </a></td> 
-          <td colspan="10" align="left"><a href="https://www.luxury-and-cosy.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://www.luxury-and-cosy.com/assets/Logo.webp" width="40" height="40"/>
-    </a></td>
-          <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
+        <td colspan="10" align="left"> <a href="https://yellow-lobster-107594.hostingersite.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://yellow-lobster-107594.hostingersite.com/assets/icons/logo.webp" width="70"  height="35"/>
-          </a></td>
+          </a>
+        </td>
        </tr>
   <tr>
         <td colspan="10" align="left"> <a href="https://www.finky-consulting.com/" onclick="window.open(this.href, '_blank'); return false;">
@@ -59,19 +52,6 @@
   <td colspan="10" align="left"> <a href="https://www.open-mur.com/" onclick="window.open(this.href, '_blank'); return false;">
            <img src="https://www.open-mur.com/assets/logo-op.webp" width="60"  height="50"/>
           </a></td>
- <td colspan="10" align="left"> <a href="https://global-reno.com/" onclick="window.open(this.href, '_blank'); return false;">
-        <img src="https://global-reno.com/assets/reno-global-logo.webp" width="73" height="28"/>
-          </a></td> 
-
-  
- 
-  <td colspan="10" align="left"> <a href="https://www.giovanni-juvara.com/" onclick="window.open(this.href, '_blank'); return false;">
-           <img src="https://www.giovanni-juvara.com/assets/images/logofooter.webp" width="60" height="40"/>
-          </a></td>   
-
-
-
-
    
   </tr> 
  
